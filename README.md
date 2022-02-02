@@ -5,9 +5,9 @@
 ##### And then we have to make a classification model for predicting the retention and then we'll save the model for future use using joblib
 
 ## Libraries used :
---> Numpy
---> Pandas
---> Matplotlib
---> Seaborn
---> Sklearn
---> Joblib
+1. Numpy
+2. Pandas
+3. Matplotlib
+4. Seaborn
+5. Sklearn
+6. Joblib
