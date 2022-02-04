@@ -1,4 +1,4 @@
-# HR-Retention-Prediction (Machine Learning) (Classification)
+# Employee-Retention-Prediction (Machine Learning) (Classification)
 
 #### In this project we have to predict the retention of employees
 #### We have to do EDA(Exploratory Data Analysis) and Data exploration to find out the the dependencies of different features on employees retention
